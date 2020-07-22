@@ -1,0 +1,3 @@
+include ':aopLibrary'
+include ':app'
+rootProject.name = "AOP_Application"
